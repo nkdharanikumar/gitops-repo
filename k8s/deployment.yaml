@@ -22,7 +22,7 @@ spec:
 
       containers:
         - name: flask-app
-          image: 324621154851.dkr.ecr.ap-south-1.amazonaws.com/flask-cicd:v1
+          image: 324621154851.dkr.ecr.ap-south-1.amazonaws.com/flask-cicd:68f740ade72dfd2f53f95db5c1e99c58f7fdfec0
           imagePullPolicy: Always
 
           ports:
